@@ -6,4 +6,4 @@
 | --------- | -------- | ------- | -------- |
 |  ReactJs  | NodeJs   | NextJs  | SocketIO |
 |  Tailwind | MongoDB  | Laravel | DenoJs   |
-Footer
+
